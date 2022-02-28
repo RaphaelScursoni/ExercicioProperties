@@ -1,0 +1,15 @@
+C:\Users\Raphael Scursoni\source\repos\ExercicioProp\ExercicioProp\obj\Debug\net6.0\ExercicioProp.csproj.AssemblyReference.cache
+C:\Users\Raphael Scursoni\source\repos\ExercicioProp\ExercicioProp\obj\Debug\net6.0\ExercicioProp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raphael Scursoni\source\repos\ExercicioProp\ExercicioProp\obj\Debug\net6.0\ExercicioProp.AssemblyInfoInputs.cache
+C:\Users\Raphael Scursoni\source\repos\ExercicioProp\ExercicioProp\obj\Debug\net6.0\ExercicioProp.AssemblyInfo.cs
+C:\Users\Raphael Scursoni\source\repos\ExercicioProp\ExercicioProp\obj\Debug\net6.0\ExercicioProp.csproj.CoreCompileInputs.cache
+C:\Users\Raphael Scursoni\source\repos\ExercicioProp\ExercicioProp\bin\Debug\net6.0\ExercicioProp.exe
+C:\Users\Raphael Scursoni\source\repos\ExercicioProp\ExercicioProp\bin\Debug\net6.0\ExercicioProp.deps.json
+C:\Users\Raphael Scursoni\source\repos\ExercicioProp\ExercicioProp\bin\Debug\net6.0\ExercicioProp.runtimeconfig.json
+C:\Users\Raphael Scursoni\source\repos\ExercicioProp\ExercicioProp\bin\Debug\net6.0\ExercicioProp.dll
+C:\Users\Raphael Scursoni\source\repos\ExercicioProp\ExercicioProp\bin\Debug\net6.0\ExercicioProp.pdb
+C:\Users\Raphael Scursoni\source\repos\ExercicioProp\ExercicioProp\obj\Debug\net6.0\ExercicioProp.dll
+C:\Users\Raphael Scursoni\source\repos\ExercicioProp\ExercicioProp\obj\Debug\net6.0\refint\ExercicioProp.dll
+C:\Users\Raphael Scursoni\source\repos\ExercicioProp\ExercicioProp\obj\Debug\net6.0\ExercicioProp.pdb
+C:\Users\Raphael Scursoni\source\repos\ExercicioProp\ExercicioProp\obj\Debug\net6.0\ExercicioProp.genruntimeconfig.cache
+C:\Users\Raphael Scursoni\source\repos\ExercicioProp\ExercicioProp\obj\Debug\net6.0\ref\ExercicioProp.dll
